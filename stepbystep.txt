@@ -1,0 +1,5 @@
+gather facts
+ find required OS from facts
+ get package from URL
+ install package along with dependencies.
+ if any error, gather error and report it back in an email.
